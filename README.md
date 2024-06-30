@@ -1,6 +1,6 @@
 # ABOUT
 
-**~ This is `notepy`, a simple note GUI application that saves notes automaticly in `notes.txt`!
+**~ This is `notepy`, a simple note GUI application that saves notes automaticly in `notes.txt`!**
 
 ------
 # REQUIREMENTS
